@@ -1,0 +1,14 @@
+.chat{
+    background-color: rgba(0, 56, 27, 0.89);
+    padding: 1rem;
+    border-radius: 1rem;
+    height: 270px;
+    width: 400px;
+    display: inline-block;
+}
+body{
+    background-color: rgb(36, 35, 35);
+    color: antiquewhite;
+    font-weight: 700;
+    margin-left: 20px;
+}
